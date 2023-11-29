@@ -84,7 +84,7 @@ footer {
   background-color: greenyellow;
   animation-name: change-location;
   animation-duration: 4s;
-  animation-iteration-count: infinite;
+  animation-iteration-count: 1;
   position: relative;
 }
 
